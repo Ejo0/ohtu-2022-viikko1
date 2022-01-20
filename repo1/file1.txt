@@ -1,3 +1,0 @@
-First file
-
-Will be added using add -p 
