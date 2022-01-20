@@ -72,5 +72,5 @@ class TestVarasto(unittest.TestCase):
 
     def test_merkkijonotulosteen_tiedot_oikein(self):
         merkkijono = str(self.varasto2)
-        oikea = "saldo = 3, vielä tilaa 77"
+        oikea = "saldo = 3, vielä tilaa 7"
         self.assertEqual(merkkijono, oikea)
